@@ -12,6 +12,7 @@ import numpy as np
 import re
 !pip install transformers
 
+"dieser Kommentar ist für einen test"
 
 file_path = '/content/mapped_7k_clean.xlsx'
 sheet_name = '7k_list'
