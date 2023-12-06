@@ -12,7 +12,7 @@ import numpy as np
 import re
 !pip install transformers
 
-"dieser Kommi ist im test_branch entstanden"
+"der kommi sollte nur im test_branch, nicht aber im master auftauchen"
 
 file_path = '/content/mapped_7k_clean.xlsx'
 sheet_name = '7k_list'
